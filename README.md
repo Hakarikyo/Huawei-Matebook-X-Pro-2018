@@ -22,17 +22,22 @@
 
 2023.06.16
 
-同步更新至Opencore 0.9.3
+- 同步更新至Opencore 0.9.3
 
-更新Kext
+- 更新Kext
 
-修复Ventura 13.4蓝牙问题 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
+- 修复Ventura 13.4蓝牙问题 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
 
-修复Ventura 13.4触控板、触摸问题 [@VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
+- 修复Ventura 13.4触控板、触摸问题 [@VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
 
-关闭啰嗦模式
+- 关闭啰嗦模式
 
-更新主题
+- 修正config.plist错误、调整Kext
+
+- 支持在线增量升级
+
+- 更新主题
+
 
 <h3>预览</h3>
 
