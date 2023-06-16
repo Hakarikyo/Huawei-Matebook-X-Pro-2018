@@ -1,5 +1,7 @@
 
 
+
+
 # Huawei-Matebook-X-Pro-2018
 
 黑苹果 Huawei-Matebook-X-Pro-2018
@@ -15,6 +17,22 @@
 | SSD         | M.2 256G                                       |                                   |
 | WiFi + 蓝牙 | Intel 8265                                     | Sonoma WIFI需搭配包内HeliPort使用 |
 | 声卡        | Realtek® ALC256                                |                                   |
+
+### 更新
+
+2023.06.16
+
+同步更新至Opencore 0.9.3
+
+更新Kext
+
+修复Ventura 13.4蓝牙问题 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
+
+修复Ventura 13.4触控板、触摸问题 [@VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
+
+关闭啰嗦模式
+
+更新主题
 
 <h3>预览</h3>
 
@@ -32,8 +50,8 @@
 
 | 版本                       | 支持                                                         | 下载                                                         | BUG    |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| macOS Sonoma Beta          | ✅ （WIFI需搭配包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases/tag/%E6%B5%8B%E8%AF%95) | 待反馈 |
-| macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/MSI-B460M-MORTAR-WIFI-10700-RX590/releases/tag/%E5%8F%91%E5%B8%83%E6%9B%B4%E6%96%B0) | 待反馈 |
+| macOS Sonoma Beta          | ✅ （WIFI需搭配包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases/tag/%E6%B5%8B%E8%AF%95) | 待反馈 |
+| macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases/tag/%E5%8F%91%E5%B8%83%E6%9B%B4%E6%96%B0) | 待反馈 |
 
 ### 不兼容硬件
 
