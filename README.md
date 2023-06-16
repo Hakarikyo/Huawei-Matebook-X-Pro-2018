@@ -55,8 +55,8 @@
 
 | 版本                       | 支持                                                         | 下载                                                         | BUG    |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| macOS Sonoma Beta          | ✅ （WIFI需搭配包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases/tag/%E6%B5%8B%E8%AF%95) | 待反馈 |
-| macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases/tag/%E5%8F%91%E5%B8%83%E6%9B%B4%E6%96%B0) | 待反馈 |
+| macOS Sonoma Beta          | ✅ （WIFI需搭配包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases/tag/%E6%B5%8B%E8%AF%95) | 待测试 |
+| macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases) | 待反馈 |
 
 ### 不兼容硬件
 
