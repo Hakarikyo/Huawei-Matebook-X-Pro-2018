@@ -8,15 +8,15 @@
 
 ## 电脑配置
 
-| 配置        | 型号                                           | 说明                              |
-| ----------- | ---------------------------------------------- | --------------------------------- |
-| CPU         | Intel i5 8250U                                 |                                   |
-| 屏幕        | 3000 x 2000 (13.9 英寸) 60hz                   |                                   |
-| 显卡        | NVIDIA GeForce MX150/Intel(R) UHD Graphics 620 | 使用Intel(R) UHD Graphics 620     |
-| 内存        | LPDDR4 2133MHz 8G                              |                                   |
-| SSD         | M.2 256G                                       |                                   |
-| WiFi + 蓝牙 | Intel 8265                                     | Sonoma WIFI需搭配包内HeliPort使用 |
-| 声卡        | Realtek® ALC256                                |                                   |
+| 配置        | 型号                                           | 说明                                    |
+| ----------- | ---------------------------------------------- | --------------------------------------- |
+| CPU         | Intel i5 8250U                                 |                                         |
+| 屏幕        | 3000 x 2000 (13.9 英寸) 60hz                   |                                         |
+| 显卡        | NVIDIA GeForce MX150/Intel(R) UHD Graphics 620 | 使用Intel(R) UHD Graphics 620           |
+| 内存        | LPDDR4 2133MHz 8G                              |                                         |
+| SSD         | M.2 256G                                       |                                         |
+| WiFi + 蓝牙 | Intel 8265                                     | macOS Sonoma WIFI需搭配包内HeliPort使用 |
+| 声卡        | Realtek® ALC256                                |                                         |
 
 ### **正常功能**
 
