@@ -23,7 +23,8 @@
 2023.06.18
 
 - 重新更新Kext，进一步精简Kext文件
-- 修复一些其他小问题
+- 更新蓝牙补丁 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
+- 更新一些其他小细节
 
 2023.06.16
 
