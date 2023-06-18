@@ -6,7 +6,7 @@
 
 黑苹果 Huawei-Matebook-X-Pro-2018
 
-## 配置
+## 电脑配置
 
 | 配置        | 型号                                           | 说明                              |
 | ----------- | ---------------------------------------------- | --------------------------------- |
@@ -18,7 +18,27 @@
 | WiFi + 蓝牙 | Intel 8265                                     | Sonoma WIFI需搭配包内HeliPort使用 |
 | 声卡        | Realtek® ALC256                                |                                   |
 
-### 更新
+### **正常功能**
+
+- Intel 8265无线网卡+蓝牙
+- Intel(R) UHD Graphics 620
+- 板载Realtek® ALC256声卡
+- 快捷调节背光（F1 [亮度降低] - F2 [亮度升高]）
+- 快捷调节音量（F4 [静音] - F5 [降低音量] - F6 [提高音量]）
+- 支持传感器
+- 触控板、触摸屏
+- 带 USB Type-C 热插拔的雷电口
+- 摄像头
+- 支持睡眠、唤醒（如有问题，使用Hackintool选择电源选项卡点击下方的螺丝刀图标即可修复）
+- 定制的OC引导界面（引导界面按空格可以出现重置Nvram的功能，双系统按Ctrl+回车可以设置默认启动项）
+
+### **不正常功能**
+
+❌ 指纹（无解）
+
+❌ NVIDIA GeForce MX150（无解）
+
+### 更新说明
 
 2023.06.18
 
@@ -44,12 +64,11 @@
 
 - 更新主题
 
-
-<h3>预览</h3>
+<h3>预览图片</h3>
 
 <img src="https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/blob/main/Picture/Ventura_13.4.png?raw=true" alt="Ventura_13.4" style="zoom: 33%;" />
 
-### BIOS
+### BIOS设置
 
 * 安全设置-安全启动【禁用】
 * 安全设置-安全芯片【禁用】
@@ -57,21 +76,14 @@
 * 高级设置-PXE设备【禁用】
 * 高级设置-指纹【禁用】
 
-### 兼容
+### 兼容版本
 
 | 版本                       | 支持                                                         | 下载                                                         | BUG    |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | macOS Sonoma Beta          | ✅ （WIFI需搭配压缩包内HeliPort使用 [@zxystd](https://github.com/OpenIntelWireless/HeliPort)） | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases) | 待测试 |
 | macOS Ventura 13.4（13.5） | ✅                                                            | [地址](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/releases) | 待反馈 |
 
-### 不兼容硬件
-
-❌ 指纹
-
-❌ NVIDIA GeForce MX150
-
-
-<h3>参考：</h3>
+<h3>参考对象</h3>
 
 https://github.com/profzei/Matebook-X-Pro-2018
 
