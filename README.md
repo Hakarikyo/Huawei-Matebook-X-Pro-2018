@@ -8,19 +8,19 @@ Huawei-Matebook-X-Pro-2018 黑苹果
 
 ## 电脑配置
 
-| 配置        | 型号                                         | 说明                                    |
-| ----------- | -------------------------------------------- | --------------------------------------- |
-| CPU         | Intel i5 8250U                               |                                         |
-| 屏幕        | 3000 x 2000 (13.9 英寸) 60hz                 |                                         |
-| 显卡        | Intel® UHD Graphics 620+NVIDIA GeForce MX150 | 使用Intel® UHD Graphics 620             |
-| 内存        | LPDDR4 2133MHz 8G                            |                                         |
-| SSD         | M.2 256G                                     |                                         |
-| WiFi + 蓝牙 | Intel 8265                                   | macOS Sonoma WIFI需搭配包内HeliPort使用 |
-| 声卡        | Realtek® ALC256                              |                                         |
+| 配置        | 型号                                          | 说明                                    |
+| ----------- | --------------------------------------------- | --------------------------------------- |
+| CPU         | Intel® i5 8250U                               |                                         |
+| 屏幕        | 3000 x 2000 (13.9 英寸) 60hz                  |                                         |
+| 显卡        | Intel® UHD Graphics 620+NVIDIA® GeForce MX150 | 使用Intel® UHD Graphics 620             |
+| 内存        | LPDDR4 2133MHz 8G                             |                                         |
+| SSD         | M.2 256G                                      |                                         |
+| WiFi + 蓝牙 | Intel® 8265                                   | macOS Sonoma WIFI需搭配包内HeliPort使用 |
+| 声卡        | Realtek® ALC256                               |                                         |
 
 ### **正常功能**
 
-- Intel 8265无线网卡+蓝牙（可开关）
+- Intel® 8265无线网卡+蓝牙（可开关）
 - Intel® UHD Graphics 620
 - 板载Realtek® ALC256声卡
 - 快捷调节背光（F1 [亮度降低] - F2 [亮度升高]）
@@ -36,7 +36,7 @@ Huawei-Matebook-X-Pro-2018 黑苹果
 
 ❌ 指纹（无解）
 
-❌ NVIDIA GeForce MX150（无解）
+❌ NVIDIA® GeForce MX150（无解）
 
 ### 更新说明
 
