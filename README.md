@@ -43,9 +43,11 @@ Huawei-Matebook-X-Pro-2018 黑苹果
 
 ### **时间问题**
 
-Windows+macOS双系统时间不对问题，Windows导入下面注册表文件即可
+Windows+macOS双系统时间不对，Windows下导入下面的注册表文件即可
 
+[打开时间同步](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/blob/main/Time/%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5%E5%BC%80WinUTCOn.reg)
 
+[关闭时间同步](https://github.com/Hakarikyo/Huawei-Matebook-X-Pro-2018/blob/main/Time/%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5%E5%85%B3WinUTCOff.reg)（还原注册表更改，一般不用）
 
 ### **正常功能**
 
