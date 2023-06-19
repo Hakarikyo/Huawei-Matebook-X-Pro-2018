@@ -33,20 +33,19 @@ Huawei-Matebook-X-Pro-2018 黑苹果
 2023.06.16
 
 - 同步更新至Opencore 0.9.3
-
 - 更新Kext
-
 - 修复Ventura 13.4蓝牙问题 [@zxystd](https://github.com/zxystd/BrcmPatchRAM)
-
 - 修复Ventura 13.4触控板、触摸问题 [@VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
-
 - 关闭啰嗦模式
-
 - 修正config.plist错误、调整Kext
-
 - 支持在线增量升级
-
 - 更新主题
+
+### **时间问题**
+
+Windows+macOS双系统时间不对问题，Windows导入下面注册表文件即可
+
+
 
 ### **正常功能**
 
