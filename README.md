@@ -50,7 +50,7 @@ Huawei-Matebook-X-Pro-2018 黑苹果
 
 ### **正常功能**
 
-- Intel® 8265无线网卡+蓝牙（可开关）
+- Intel® 8265无线网卡+蓝牙（Ventura 13.4可开关）
 - Intel® UHD Graphics 620
 - 板载Realtek® ALC256声卡
 - 快捷调节背光（F1 [亮度降低] - F2 [亮度升高]）
