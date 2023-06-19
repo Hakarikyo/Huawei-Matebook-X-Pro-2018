@@ -40,6 +40,10 @@ Huawei-Matebook-X-Pro-2018 黑苹果
 
 ### 更新说明
 
+2023.06.19
+
+- 添加支持Windows+macOS双系统的MOD版本引导
+
 2023.06.18
 
 - 重新更新Kext，进一步精简Kext文件
